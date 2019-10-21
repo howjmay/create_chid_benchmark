@@ -1,0 +1,25 @@
+# Generated files
+build/
+docs/html
+
+# Object files                                                                                                                                                
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
